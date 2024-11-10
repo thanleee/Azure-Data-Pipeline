@@ -23,8 +23,8 @@ Dự án này nhằm xây dựng một quy trình ETL toàn diện trên Azure. 
 - Load Data into Synapse: Thiết lập một Synapse SQL pool và load dữ liệu từ gold để phân tích.
 - Create Power BI Dashboard: Kết nối Power BI với Synapse và tạo dashboard.
 
-## Bước 5: Automation and Monitoring
-- Schedule Pipelines: Sử dụng trigger trong Azure Data Factory để lên lịch cho các data pipelines chạy hàng ngày.
+## Bước 5: Automation 
+- Đặt lịch tự động run Pipelines: Sử dụng trigger trong Azure Data Factory để lên lịch cho các data pipelines chạy hàng ngày.
 
 # Dashboard
 ![user_stories](img/Screenshot%202024-11-11%20024736.png)
