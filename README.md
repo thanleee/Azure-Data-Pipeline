@@ -1,4 +1,4 @@
-# Azure-Realtime-Data-Streaming
+# Azure-Data-Pipeline
 
 Dự án này nhằm xây dựng một quy trình ETL toàn diện trên Azure. Mục tiêu là Extract dữ liệu khách hàng và doanh số từ cơ sở dữ liệu SQL Server, Transform dữ liệu thông qua Azure Databricks , và load dữ liệu đã transform vào Azure Synapse Analytics phuc vụ cho việc tạo dashboard Power BI.
 
